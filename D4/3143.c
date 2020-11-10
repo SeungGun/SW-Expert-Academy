@@ -28,8 +28,8 @@ int main() {
 			}
 			if (sub[j] == NULL) {
 				cnt++;
-				j = 0;
 			}
+			j = 0;
 		}
 		else {
 			i++;
